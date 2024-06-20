@@ -1,5 +1,6 @@
 # RoguelikeRPG
  フィールド探索型ローグライクRPG
+プレイ動画: https://youtu.be/fzxCS-lqtyo
 
 ## バトルの様子
 
