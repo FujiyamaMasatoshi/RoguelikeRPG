@@ -1,9 +1,14 @@
 # RoguelikeRPG
- フィールド探索型ローグライクRPG
-プレイ動画: https://youtu.be/fzxCS-lqtyo
+フィールド探索型ローグライクRPG
+
+## プレイ動画
+* 本編 (タイトルからゲームクリアまで): https://youtu.be/o1S17lTQIY0
+* ゲームオーバー編(タイトルからゲームオーバーまで): https://youtu.be/qjhaEfqJGws
+* バトル編: https://youtu.be/g9_QBp61toA
+* キャラクタ動き編: https://youtu.be/4j8JNAbECwU
+
 
 ## バトルの様子
-
 
 https://github.com/FujiyamaMasatoshi/RoguelikeRPG/assets/168803336/fd9afd96-a3c2-4ae9-8f24-734c6de9cd0d
 
